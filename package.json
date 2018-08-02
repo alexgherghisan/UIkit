@@ -1,0 +1,21 @@
+{
+	"name": "navaru.com",
+	"version": "1.0.0-alpha",
+	"description": "navaru.com source code",
+	"repository": "https://github.com/ugin/navaru.com",
+	"author": "Eugen Tudorancea <eugen.tudorancea@gmail.com>",
+	"license": "MIT",
+	"private": true,
+	"workspaces": ["packages/*"],
+	"scripts": {},
+	"dependencies": {
+		"react": "^16.4.0",
+		"react-dom": "^16.4.0",
+		"loadable-components": "^2.2.2",
+		"query-string": "^6.1.0",
+		"cuid": "^2.1.1",
+		"sqlite3": "^4.0.2",
+		"knex": "^0.15.2",
+		"ajv": "^6.5.2"
+	}
+}

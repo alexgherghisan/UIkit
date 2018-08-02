@@ -1,0 +1,10 @@
+global:
+  font_size: $font.size.base
+  line_height: '1.2'
+  font_weight: normal
+  font_family: >
+    $font.family.serif,
+    $font.family.default
+  text_color: $color.black
+  text_select_color: $color.black
+  text_select_background: '#FDEECB'
